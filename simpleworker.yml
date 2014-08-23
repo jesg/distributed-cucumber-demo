@@ -1,0 +1,6 @@
+---
+workers:
+  - type: ssh
+    directory: /tmp/foo
+    user: jason
+    host: localhost
